@@ -8,8 +8,17 @@ Cada miembro del equipo debe crearse una cuenta en github y hacer Fork de este r
 Una vez que tenemos el repositorio _forkeado_, hacemos una modificación en algún archivo y procedemos a hacer ***Pull Request***.
 
 ## Trabajando desde local
-Me parece que lo más fácil es trabajar con la herramienta GUI de github, que se puede descargar aquí: https://desktop.github.com/
-Desde la aplicación veremos nuestro repositorio y tendremos la opción de clonarlo a una carpeta de nuestro disco local. Se pueden ver todos los pasos aquí: https://www.redeszone.net/2016/10/01/clonar-repositorio-github-retomar-desarrollo-local/
+1. Descargar la aplicación de escritorio de Github: https://desktop.github.com/
+2. Instalar la aplicación
+3. Hacemos login en la aplicación y seleccionamos la opción: "Clone", nos aparecerá nuestro repositorio y sólo tendremos que seleccionar en qué carpeta del disco duro instalarlo.
+
+### Usando Visual Studio Code
+1. Descargarse el Visual Studio Code (En adelante: Code): https://code.visualstudio.com/
+2. Instalar Git: https://git-scm.com/. Durante la instalación, seleccionar:
+  - Use Visual Studio Code as Git's default editor
+  El resto de las opciones, dejar las que vienen por defecto.
+3. Desde Code, añadir la carpeta local: File -> Add Folder to Workspace.
+
 
 ## Flujo de trabajo
 Una vez que tenemos nuestro repositorio local y nuestro repositorio remoto, trabajaremos de la siguiente forma:
