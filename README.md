@@ -35,4 +35,10 @@ Una vez que tenemos nuestro repositorio local y nuestro repositorio remoto, trab
 
 Con eso habremos actualizado nuestro repositorio remoto, pero faltará integrar los cambios en el repositorio oficial, para lo cual, haremos un "pull request".
 
-_Esta tarde intentaré investigarlo a fondo, pero de momento lo podemos hacer desde la aplicación de github o desde la web. Tengo que ver cómo quedan los repositorios definidos al clonar siguiendo el proceso descrito._
+## Pull Request desde Code
+Instalar la extensión: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+
+## Markdown en Code
+Instalar las extensiones:
+- https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+- https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview
