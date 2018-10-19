@@ -19,6 +19,6 @@ Pulsamos el botón verde tal y como está (Merge Pull Request)
 
 Nos aparecerán unos cuadros de texto con el título y el comentario por defecto. Es bueno acostumbrarse a poner comentario descriptivos:
 
-![Merge automático](images/new-pull-request-titulo-y-comentario.png)
+![Merge automático](images/new-pull-request-título-y-comentario.png)
 
 Una vez puesto el comentario que queramos, le damos al botón verde: Confirm merge
