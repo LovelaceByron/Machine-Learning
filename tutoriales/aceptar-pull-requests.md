@@ -1,6 +1,6 @@
 # Aceptar Pull Requests
 El editor accede al repositorio oficial: https://github.com/iartuoc/Machine-Learning y observa que hay un nuevo Pull Request:
-![Nuevo Pull Request](images/new-pull-request.png)
+![Nuevo Pull Request](images/new-pull-request-1.png)
 Se accede a la pestaña correspondiente y se examina el Pull Request:
 ![Detalle Pull Request](images/new-pull-request-2.png)
 Nos aparecerá el detalle del Pull Request y podremos ver los commits que se hicieron hasta llegar al Pull Request. Pulsando sobre un commit, podemos ver los detalles y los cambios:
