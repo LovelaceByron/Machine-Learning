@@ -1,6 +1,11 @@
 # Machine-Learning
 Respositorio de trabajo del equipo iART de la asignatura Trabajo en Equipo en Red de la UOC.
 
+## (Novedad) Tutoriales:
+Tenemos ya algunos tutoriales creados sobre github:
+* [Flujo de trabajo (Todos)](tutoriales/flujo-de-trabajo.md)
+* [Aceptar pull requests (Editor)](tutoriales/aceptar-pull-requests.md)
+
 ## Primeros pasos
 ### Registro y Fork
 Cada miembro del equipo debe crearse una cuenta en github y hacer Fork de este repositorio (Botón en la esquina superior derecha).
