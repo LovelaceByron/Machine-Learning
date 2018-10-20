@@ -6,6 +6,10 @@ Tenemos ya algunos tutoriales creados sobre github:
 * [Flujo de trabajo (Todos)](tutoriales/flujo-de-trabajo.md)
 * [Aceptar pull requests (Editor)](tutoriales/aceptar-pull-requests.md)
 
+## (Novedad) Archivo de errores:
+Aquí vamos llevando un registro de los errores que nos encontremos y sus soluciones:
+* [Errores](tutoriales/errores.md)
+
 ## Primeros pasos
 ### Registro y Fork
 Cada miembro del equipo debe crearse una cuenta en github y hacer Fork de este repositorio (Botón en la esquina superior derecha).
