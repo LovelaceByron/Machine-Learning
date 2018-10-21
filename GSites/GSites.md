@@ -20,5 +20,4 @@ La primera parte de la estructura del proyecto tendrá que tener los tres aparta
 * **Búsquedas Diigo** 25/10/18 – 02/11/18
 * **Índice y estructuración de Gsites**	02/11/18 – 20/11/18
 
-
-![Cronograma de las fechas](images/GanttProject.jpg)
+![Cronograma](images/GanttProject.png)
