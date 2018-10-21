@@ -21,3 +21,4 @@ La primera parte de la estructura del proyecto tendrá que tener los tres aparta
 * **Índice y estructuración de Gsites**	02/11/18 – 20/11/18
 
 
+![Cronograma de las fechas](images/GanttProject.jpg)
