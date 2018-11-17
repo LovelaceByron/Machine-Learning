@@ -1,6 +1,15 @@
 # Machine-Learning
 Respositorio de trabajo del equipo iART de la asignatura Trabajo en Equipo en Red de la UOC.
 
+## (Novedad) Tutoriales:
+Tenemos ya algunos tutoriales creados sobre github:
+* [Flujo de trabajo (Todos)](tutoriales/flujo-de-trabajo.md)
+* [Aceptar pull requests (Editor)](tutoriales/aceptar-pull-requests.md)
+
+## (Novedad) Archivo de errores:
+Aquí vamos llevando un registro de los errores que nos encontremos y sus soluciones:
+* [Errores](tutoriales/errores.md)
+
 ## Primeros pasos
 ### Registro y Fork
 Cada miembro del equipo debe crearse una cuenta en github y hacer Fork de este repositorio (Botón en la esquina superior derecha).
@@ -24,19 +33,7 @@ _Nota: Se puede usar cualquier otro editor, pero si estáis acostumbrados a otro
 5. Actividad: Crear o modificar algún archivo y hacer commit desde Code: Escribir un mensaje descriptivo de los cambios realizados y presionar Ctrl+Enter.
 
 ## Flujo de trabajo
-_Falta depurar el flujo de trabajo, que lo haremos a base de práctica_
-Una vez que tenemos nuestro repositorio local y nuestro repositorio remoto, trabajaremos de la siguiente forma:
-1. Descargarse el proyecto actualizado
-  'git pull'
-2. Guardar nuestros cambios
-  'git commit -m "Descripción de los cambios"'
-3. Subir nuestros cambios
-  'git push'
-
-Con eso habremos actualizado nuestro repositorio remoto, pero faltará integrar los cambios en el repositorio oficial, para lo cual, haremos un "pull request".
-
-## Pull Request desde Code
-Instalar la extensión: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+Véase [Flujo de trabajo](tutoriales/flujo-de-trabajo.md).
 
 ## Markdown en Code
 Instalar las extensiones:
