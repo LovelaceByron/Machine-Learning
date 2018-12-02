@@ -1,0 +1,1 @@
+No se pueden crear carpetas vacías en GitHub y luego ir agregando archivos en la misma. Se crea junto a la adición de un archivo.
