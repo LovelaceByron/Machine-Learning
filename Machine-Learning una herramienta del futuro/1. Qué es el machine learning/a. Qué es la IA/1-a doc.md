@@ -2,7 +2,7 @@
 
 La inteligencia artificial es una disciplina que mediante una programación previa, realiza operaciones similares a tomar una reflexión, para luego ejecutar tareas imitando a la mente humana, coloquialmente se le adopta esta definición porque se aplican métodos **cognitivos** (enlace a vocabulario), esto viene asociado así porque el sistema de funcionamiento es muy simular a la de otras mentes, aplicando las tareas como aprender y resolver problemas.
 
-[FOTO / IA. ]
+[FOTO / IA.Pendiente de diseñar  ]
 
 La podemos encontrar en áreas de controles, planificaciones automáticas, habilidades para reconocer a un usuario desde el teléfono y resolver sus problemas a gusto del consumidor, reconocimiento de escritura y diferenciar aspectos mediante patrones. 
 
