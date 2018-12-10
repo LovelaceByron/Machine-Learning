@@ -1,9 +1,9 @@
 # Realción entre machine learning e inteligencia artificial
 
-La inteligencia artificial, es toda técnica recogida con relación a la simulación de un ser humano y El Machine learning, tiene como objetivo que un computador pueda aprender por sí solo.   
-Por lo tanto, la inteligencia artificial, es un sistema que engloba al Machine learning y por eso esta se define como una rama dentro de ella. Entendiendo **cómo funciona el Machine Learning**(enlace a 2) entenderemos que cualquier sistema de inteligencia artificial depende de ella, sería como definir a un humano sin capacidad de pensar y aprender  
-¿Verdad que es imposible?  
-### Pongamos un ejemplo de las dos relaciones en un caso real para verlo mejor. 
+La inteligencia artificial, es toda técnica recogida con relación a la simulación de un ser humano y El Machine learning. Tiene como objetivo que un computador pueda aprender por sí solo.   
+Por lo tanto, la inteligencia artificial, es un sistema que engloba al Machine learning y por eso esta se define como una rama dentro de ella. Entendiendo **cómo funciona el aprendizaje automático**(enlace a 2) entenderemos que cualquier sistema de inteligencia artificial depende de ella, de lo contrario, sería como definir a un humano sin capacidad de pensar y aprender  
+¿Verdad que esto es imposible?  
+### Ejemplo de las dos relaciones en un caso real 
 
 Sophia, es un **robot humanoide**(vocabulario) desarrollado por la compañía, **Hanson robotics**(vocabulario).  
 Sophia está desarrollada por un conjunto de tecnologías de IA, Reconocimiento de voz y facial, análisis de datos, imitación de gestos humanos, el aspecto físico que posee y su vestimenta, también lo podríamos incluir dentro de la rama de la IA.   
