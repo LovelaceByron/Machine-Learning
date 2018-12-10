@@ -1,8 +1,8 @@
 # ¿Qué es el Big data?
 Big data, como su propio nombre indica, se describe como un gran volumen de datos, que pueden ser estructurado o no estructurado.
-También nos referimos a conjuntos de datos cuyo tamaño, complejidad y velocidad de crecimiento hagan que su gestión no se pueda ejecutar ni capturar mediante herramientas convencionales. Por ejemplo, bases de datos. 
+También nos referimos a conjuntos de datos cuyo tamaño, complejidad y velocidad de crecimiento hagan que su gestión no se pueda ejecutar ni capturar mediante herramientas convencionales. Por ejemplo, **bases de datos** (enlace a vocabulario). 
 
-[Foto, nomnbre Big Data]  
+[Foto, nomnbre Big Data/ STOCKVAUL.NET]  
 
 Los proyectos del big data se centran en tres capas   
 1. Almacenamiento  
