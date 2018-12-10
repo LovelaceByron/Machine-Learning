@@ -15,16 +15,6 @@ Sin embargo, el aprendizaje automático tiene sus limitaciones: sus algoritmos p
 
 *(Insertar en un lateral la imagen extraída desde Flickr (Hay dos, cada una de un tamaño distinto según te convenga :)) [Imagen_Medicina](https://drive.google.com/drive/u/1/folders/1NZqhluWW6xBl1O3JJ7HCnOhp6EkBl1P0))*
 
-Otra de sus futuras aplicaciones 
+Es algo cotidiano clasificar lo que nos rodea: noticias falsas, correo no deseado, ropa, etc. Es por esto que el descubriento, por parte del grupo *RIKEN AIP (Center for Advanced Intelligence Project)*, de un método con el que los ordenadores aprenden un límite de clasificación utilizando únicamente *datos positivos*, según el autor principal Takashi Ishida (2018, p.):
 
-
-
-
-
-
-
-
-
-
-
-
+> "Podría ampliar la gama de aplicaciones en las que se puede utilizar la tecnología de clasificación. [...] En un futuro próximo, esperamos poner nuestra tecnología en uso en diversos campos de investigación, como el procesamiento de lenguaje natural, visión artificial, robótica y bioinformática".
