@@ -12,5 +12,14 @@ Conjunto ordenado y finito de operaciones que permite hallar la solución de un 
 6.	Robot humanoide  
 Robot que se diseña para simular la forma y los movimientos de un ser humano
 7.	Hanson Robotics  
-Empresa especializada en la creación de robots realistas y expresivos con la capacidad de establecer una relación de confianza con los humanos a través de la conversación 
+Empresa especializada en la creación de robots realistas y expresivos con la capacidad de establecer una relación de confianza con los humanos a través de la conversación
+8. ZB (zettabyte):  
+ una unidad de almacenamiento de información cuyo símbolo es el ZB,equivale a 1021 bytes  
+9.  Minería de datos:  
+es un campo de la estadística y las ciencias de la computación referido al proceso que intenta descubrir patrones en grandes volúmenes de conjuntos de datos  
+10. MIT:  
+instituto de tecnología de Massachussets, es una universidad privada localizada en Cambridge. (Estados unidos)  
+11. Ética:  
+Disciplina filosófica que estudia el bien y el mal y sus relaciones con la moral y el comportamiento humano.
+
 
